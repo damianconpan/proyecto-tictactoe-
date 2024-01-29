@@ -1,0 +1,49 @@
+.titulo{
+    color: white;
+}
+
+.reset{
+    border-radius: 10px;
+    border: none;
+    background-color: white;
+    font-size: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.caja{
+    display: flex;
+    width: 180px;
+    height: 180px;
+    background-color: #1f3540;
+    border: 4px solid #0f1b21;
+    border-radius: 10px;
+    text-align: center;
+}
+.board{
+    display: flex;
+    margin: auto;
+    height: 600px;
+    width: 564px;
+}
+
+.caja img{
+    margin: 50px 50px;
+}
+.titulo img{
+    height: 30px;
+}
+.scoreboard{
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 400px;
+    margin-right: 400px;
+    color: black;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.equis{
+    padding-left: 80px;
+    padding-right: 200px;
+}
